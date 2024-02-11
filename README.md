@@ -22,7 +22,7 @@ Includer was made to be a one-button solution to LFI crawling. I got tired of us
 
 
 ## Future Work
-- Interactive shell for RCE methods
-- LFI method detection
-- RFI detection
-- Custom wordlist read-in
+- Method detection for all parameters
+- Reverse and Interactive shell functions
+- Sophisticated web crawls
+- Windows support
