@@ -22,6 +22,7 @@ Includer was made to be a one-button solution to LFI crawling. I got tired of us
 
 
 ## Future Work
+This project is an extremely old one of mine and needs major updates
 - Method detection for all parameters
 - Reverse and Interactive shell functions
 - Sophisticated web crawls
